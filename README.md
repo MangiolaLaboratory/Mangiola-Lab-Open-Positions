@@ -21,6 +21,7 @@ Full application: https://careers.adelaide.edu.au/cw/en/job/513184/grantfunded-r
 
 The position is for a postdoctoral fellow in spatial and single-cell computational immunogenomics for cancer diagnosis. This position will advance cancer diagnosis by analysing immune responses and treatment efficacy through data-driven research and a multi-omic approach. Exploring the dynamics of circulating immune cells in blood reveals crucial insights into the immune system's response, its efficacy against metastatic cancer, and its reaction to treatments. Profiling peripheral blood immune single cells and circulating cytokines, we uncovered patterns of immune cell communication and composition linked to metastatic progression (Mangiola et al. 2023).  
 
+<img src="image_position_immunodiagnosis.png?raw=true" width="800">
 
 This exciting position aims to expand this research to encompass the local tumour microenvironment and apply this approach to identify individual immune characteristics influencing immunotherapy success. We aim to employ a multiomic approach, analysing extensive patient data across all stages of disease progression. This research will utilise state-of-the-art facilities, including 10x Xenium, 10x CITE-seq, Milliplex and proteomics. 
 
