@@ -3,29 +3,15 @@ This repository lists the current open positions in the Mangiola Laboratory
 
 The Stefano Mangiola Research Group at SAiGENCI (Adelaide) with co-appointment at WEHI (Melbourne) is at the forefront of computational immunogenomics, employing machine-learning techniques to advance cancer diagnosis and treatment. Our interdisciplinary and international team collaborates extensively with immunology, cancer biology and machine learning experts, leveraging state-of-the-art experimental data to unravel biological processes and novel biomedical applications. 
 
-# \#1 Position: AI large-language models of single-cell data for cancer immunogenomics
+# \#1 Postdoc level A computational biology: Spatial and single-cell data analysis for cancer immunogenomics![image](https://github.com/user-attachments/assets/7d36bc62-a74f-409f-ba35-697894e2ae98)
 
-APPLY: https://careers.adelaide.edu.au/cw/en/job/514185/ai-largelanguage-models-of-singlecell-data-for-cancer-immunogenomics
-
-Work type: Fixed term - Full-time
-
-(Level B) $107,276 to $126,894 per annum plus an employer contribution of 17% superannuation applies.
-
-Develop AI-driven digital tissue models for precision oncology, harnessing a multidisciplinary approach to tailor immunotherapy across diverse demographic profiles.
-
-The South Australian Immunogenomics Cancer Institute (SAiGENCI) is embarking on a ground-breaking project to create a digital tissue AI model for precision oncology. This role offers an exciting opportunity to be part of a multidisciplinary team that combines expertise in AI, bioinformatics, clinical oncology, and cancer immunology. As a key team member, you will contribute to advancing our understanding and implementation of immunotherapy tailored to demographic specificities such as age and sex. The role involves the development and refinement of AI-driven tissue models (e.g. large-language models) and the analysis of extensive single-cell data across a wide demographic spectrum.
-
-This position will allow you to explore and develop new methodologies that integrate detailed cellular and molecular data to enhance the precision of established therapies and uncover new treatment avenues. We are looking for experienced individuals who are passionate about using their skills to make a tangible impact in medical research. You will be part of a team that values collaboration, innovation, and the pursuit of excellence. If you are driven to be at the cutting edge of technology and healthcare, we would like to hear from you.
-
-# \#2 Position: Spatial and single-cell computational immunogenomics for cancer diagnosis
-
-APPLY: https://careers.adelaide.edu.au/cw/en/job/514184/spatial-singlecell-computational-immunogenomics-for-cancer-diagnosis
+APPLY: [https://careers.adelaide.edu.au/cw/en/job/514184/spatial-singlecell-computational-immunogenomics-for-cancer-diagnosis](https://careers.adelaide.edu.au/cw/en/job/514184/postdoc-level-a-computational-biology-spatial-and-singlecell-data-analysis-for-cancer-immunogenomics)
 
 **Grant-Funded Researcher (Level A)**
 
 Work type: Fixed term - Full-time 2 years
 
-(Level A, MSc/PhD) $75,888 to $102,040 per annum plus an employer contribution of 17% superannuation.
+(Level A, MSc/PhD) $75,888 to $105,040 per annum plus an employer contribution of 17% superannuation.
 
 Full application: https://careers.adelaide.edu.au/cw/en/job/513184/grantfunded-researcher-a
 
@@ -45,22 +31,51 @@ A multi-organ map of the human immune system across age, sex and ethnicity
 S Mangiola, M Milton, N Ranathunga, CSN Li-Wai-Suen, A Odainic, E Yang, W Hutchison, A Garnham, J Iskander, B Pal, V Yadav, JFJ Rossello, VJ Carey, M Morgan, S Bedoui, A Kallies, AT Papenfuss
 bioRxiv 2023.06.08.542671; doi: https://doi.org/10.1101/2023.06.08.542671
 
-# \#3 Position: tidyomics and HPC software engineer
+To be successful you will need: (max 5B)
+•	Explicitly address each selection criteria 
+•	Attach a CV to the application including at least the following subsections: Education, Publication, Awards, GitHub profile.
+•	PhD in Computational Biology, Bioinformatics, Computer Science, or a closely related field with a strong focus on machine learning and deep learning applications.
+•	Demonstrable experience in analysing large-scale single-cell genomic data.
+•	Proficiency in programming languages commonly used in computational biology and data science, such as Python and R, with the ability to handle complex data analysis tasks. Please provide publicly available examples.
+•	A strong record of research, evidenced by publications in peer-reviewed journals or presentations at significant conferences, particularly in areas related to AI, language modelling, computational biology, bioinformatics, or immunogenomics.
+Desirable:
+•	2+ postdoctoral years of experience 
+•	Extensive experience in handling, processing, and interpreting large-scale biological datasets, including single-cell RNA-Seq data.
+•	Familiarity with immunogenomics, including the understanding of immune cell types, pathways, and mechanisms, especially in the context of cancer.
 
-APPLY: https://careers.adelaide.edu.au/cw/en/job/514194/grantfunded-researcher-a
+![image](https://github.com/user-attachments/assets/e46cd960-a10c-47b3-9ef9-ac55cfdc99c2)
+
+# \#2 Postdoc level A computational biology: Multiomics pipeline development in R and AI/Machine-learning methods development
+
+APPLY: [https://careers.adelaide.edu.au/cw/en/job/514194/grantfunded-researcher-a](https://careers.adelaide.edu.au/cw/en/job/514194/postdoc-level-a-computational-biology)
 
 **Grant-Funded Researcher (Level A)**
 
 Work type: Fixed term - Full-time 2 years
 
-(Level A, MSc/PhD) $75,888 to $102,040 per annum plus an employer contribution of 17% superannuation.
+(Level A, MSc/PhD) $75,888 to $105,040 per annum plus an employer contribution of 17% superannuation.
 
-R software engineer for tidyomics ecosystem and single-cell and spatial omic pipelines
+The position is for a postdoctoral or research-assistant fellow expert in large-scale data analysis and advanced R programming. High-throughput single-cell and multiomic data are revolutionising medical research. There is a need to develop analysis methods and pipelines that scale to tens of millions of cells. Tidyomics (Nature Methods 2024) is an R software ecosystem that enhances the analysis and visualisation of high-dimensional omics data, applying the principles of tidy data analysis, a de facto standard in data science. Given its large adoption, we propose to improve the documentation, robustness, and interoperability of the Tidyomics ecosystem and extend it to spatial profiling technologies.
 
-Develop the tidyomics ecosystem and scalable data analysis pipelines in R
+<img width="288" alt="image" src="https://github.com/user-attachments/assets/67a62195-b943-4daa-954f-3384eaeaed1f">
 
-The position is for a postdoctoral or research-assistant fellow in advanced R programming. Tidyomics (Nature Methods 2024) is an R software ecosystem that enhances the analysis and visualisation of high-dimensional omics data, applying the principles of tidy data analysis, a de facto standard in data science. Given its large adoption, we propose to improve the documentation, robustness, and interoperability of the Tidyomics ecosystem and extend it to spatial profiling technologies.
+Tidyomics packages enable computational biologists to employ a user-friendly grammar to manipulate popular data containers across omics (genomics, transcriptomics, cytometry) and platforms (Bioconductor, Seurat). Tidyomics aggregates a growing user base and developer community, forming an international network that spans five continents. 
+This exciting position, beyond developing tidyomics, also aims to develop high-performance single-cell and spatial analysis pipelines in R for high-performance and cloud computing. These pipelines will serve our popular CuratedAtlasQuery database, which deploys the curated and annotated single-cell universe to researchers and institutions. Using these pipelines, you will model single-cell data at scale to extract meaningful knowledge about cancer and the immune system. 
+This role will be responsible for applying large-language models and other machine-learning tools to large-scale single-cell and spatial public data.
+Key responsibilities: Develop and enhance the tidyomics ecosystem (GitHub: tidyomics), write documentation and create and deliver workshops nationally and internationally. Enhance the pipeline HPCell (GitHub: MangiolaLaboratory/HPCell) and the single-cell knowledge base CuartedAtlasQuery. Analyse large-scale single-cell and spatial data using AI and more standard tools in the context of cancer immunology.
 
-This exciting position also aims to develop high-performance single-cell and spatial analysis pipelines in R, for high-performance and cloud computing. These pipelines will serve our popular CuratedAtlasQuery database, which deploys the curated and annotated single-cell universe to researchers and institutions.
+To be successful you will need: (max 5B)
+•	Explicitly address each selection criteria 
+•	Attach a CV to the application including at least the following subsections: Education, Publication, Awards, GitHub profile.
+•	MSc/PhD in Computational Biology, Bioinformatics, Computer Science, or a closely related field with a strong focus on machine learning and deep learning applications.
+•	Proficiency R, with the ability to handle complex data analysis tasks. Please provide publicly available examples.
+•	A record of research, evidenced by publications in peer-reviewed journals or presentations at significant conferences, particularly in areas related to AI, language modelling, computational biology, bioinformatics, or immunogenomics.
 
-Key responsibilities: Develop and enhance the tidyomics ecosystem (GitHub: tidyomics), write documentation and create and deliver workshops nationally and internationally. Enhance the pipeline HPCell (GitHub: MangiolaLaboratory/HPCell) and the single-cell knowledge base CuartedAtlasQuery.
+Desirable:
+•	Demonstrable experience in analysing large-scale single-cell genomic data.
+•	Extensive experience in handling, processing, and interpreting large-scale biological datasets, including single-cell RNA-Seq data.
+•	Familiarity and proficiency with deep-learning libraries, and large-language models
+•	Knowledge of Python and bash.
+•	Familiarity with immunogenomics, including the understanding of immune cell types, pathways, and mechanisms, especially in the context of cancer.
+
+
